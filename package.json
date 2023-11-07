@@ -1,0 +1,22 @@
+{
+  "name": "table-sorting-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksanderszymaszek/table-sorting-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksanderszymaszek/table-sorting-playwright/issues"
+  },
+  "homepage": "https://github.com/aleksanderszymaszek/table-sorting-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.10"
+  }
+}
